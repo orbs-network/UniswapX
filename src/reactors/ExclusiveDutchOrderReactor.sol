@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
+// https://github.com/Uniswap/UniswapX/blob/c478e248e01029cb28e6f851127f259e177e95a4/LICENSE
 pragma solidity ^0.8.0;
 
 import {BaseReactor} from "./BaseReactor.sol";
